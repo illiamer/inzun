@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 zmiana1
 kolejka zmiana
 3 zmiana
+=======
+nowa linia
+>>>>>>> 48b8103522441dd2bbd33b71767c624d9785149f
